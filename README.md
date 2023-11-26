@@ -1,4 +1,4 @@
-# NetFlix-s_Tableau_Dashboard
+# NetFlix's_Tableau_Dashboard
 ## TABLE OF CONTENTS:
 -	PROJECT OBJECTIVE
 -	DATA DESCRIPTION
