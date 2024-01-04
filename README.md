@@ -22,5 +22,7 @@ Overall, the Netflix Dashboard is a useful tool for understanding the content av
 *	Load the data
 *	Data cleaning 
 *	Data Analysis
-
+  
+  
+[SEE FINAL DASHBOARD](https://github.com/ShahnawajHussain786/NetFlixs_Tableau_Dashbord/blob/main/Netflix.png).
 
